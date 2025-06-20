@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm a Developer
+# 🍄 Hi there! 🍄
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Backend+Python+Developer;DevOps+Engineer;Collaborative+Team+Player;Always+learning+something+new" alt="Typing SVG" />
@@ -9,8 +9,6 @@
 ### 🚀 About Me
 
 Backend Python developer with DevOps experience. I build reliable systems and automate everything I can.
-
-Love working with APIs, databases, and deployment pipelines. Currently focused on collaborative development and scaling solutions.
 
 ---
 
@@ -75,8 +73,7 @@ Most of my development work happens in collaborative environments and team repos
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DonSudak)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dmitriy_osipenko)
 
 </div>
 
