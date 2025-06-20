@@ -1,16 +1,16 @@
 # 👋 Hi there! I'm a Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Collaborative+Team+Player;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Backend+Python+Developer;DevOps+Engineer;Collaborative+Team+Player;Always+learning+something+new" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 🚀 About Me
 
-I write code and solve problems. Love building things that work well and look good.
+Backend Python developer with DevOps experience. I build reliable systems and automate everything I can.
 
-Currently focused on collaborative development and team projects. Always exploring new technologies and approaches.
+Love working with APIs, databases, and deployment pipelines. Currently focused on collaborative development and scaling solutions.
 
 ---
 
@@ -18,11 +18,13 @@ Currently focused on collaborative development and team projects. Always explori
 
 <div align="center">
   
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
@@ -82,7 +84,7 @@ Most of my development work happens in collaborative environments and team repos
 
 <div align="center">
   
-*"Code is poetry that machines understand"*
+*"Good code is like a garden - it needs care and the right environment."*
 
 ![Profile views](https://komarev.com/ghpvc/?username=DonSudak&style=flat-square&color=blue)
 
