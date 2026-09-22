@@ -1,14 +1,14 @@
 # Dmitrii Osipenko
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Lead+DevOps+Engineer;Python+Developer;Kubernetes,+GitOps,+CI-CD;Ships+infrastructure+that+stays+up" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Python+Developer;Kubernetes,+GitOps,+CI-CD;Ships+infrastructure+that+stays+up" alt="Typing SVG" />
 </div>
 
 ---
 
 ### About
 
-DevOps engineer leading infrastructure for 200+ microservices across four production Kubernetes clusters. 5+ years building and running the systems behind backend services I also write in Python. Led a team of three through platform migrations off bare metal, GitOps rollouts, and the less glamorous parts — secrets management, monitoring, backups — that keep production boring in a good way. Also comfortable moving around Go, PHP, C#, and Java codebases when the infra work calls for it.
+DevOps engineer working across 200+ microservices on production Kubernetes. 5+ years building and running the systems behind backend services I also write in Python — migrations off bare metal, GitOps rollouts, and the less glamorous parts: secrets management, monitoring, backups. Also comfortable moving around Go, PHP, C#, and Java codebases when the infra work calls for it.
 
 ---
 
