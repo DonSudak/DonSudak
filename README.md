@@ -1,14 +1,14 @@
 # Dmitrii Osipenko
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Python+Developer;DevOps+Engineer;Writes+code.+Ships+it+too.;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Lead+DevOps+Engineer;Python+Developer;Kubernetes,+GitOps,+CI-CD;Ships+infrastructure+that+stays+up" alt="Typing SVG" />
 </div>
 
 ---
 
 ### About
 
-Python developer and DevOps engineer. I write backends and run the infrastructure they live on. Most of my work sits at the intersection — I build things and then figure out how to actually ship them.
+DevOps engineer leading infrastructure for 200+ microservices across four production Kubernetes clusters. 5+ years building and running the systems behind backend services I also write in Python. Led a team of three through platform migrations off bare metal, GitOps rollouts, and the less glamorous parts — secrets management, monitoring, backups — that keep production boring in a good way. Also comfortable moving around Go, PHP, C#, and Java codebases when the infra work calls for it.
 
 ---
 
@@ -20,6 +20,7 @@ Python developer and DevOps engineer. I write backends and run the infrastructur
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-CA2222?style=flat-square&logo=sqlalchemy&logoColor=white)
@@ -35,15 +36,23 @@ Python developer and DevOps engineer. I write backends and run the infrastructur
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/-Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
+![Rancher](https://img.shields.io/badge/-Rancher-0075A8?style=flat-square&logo=rancher&logoColor=white)
+![RKE2](https://img.shields.io/badge/-RKE2-0075A8?style=flat-square&logo=rancher&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![Vault](https://img.shields.io/badge/-Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black)
-![Rancher](https://img.shields.io/badge/-Rancher-0075A8?style=flat-square&logo=rancher&logoColor=white)
-![RKE2](https://img.shields.io/badge/-RKE2-0075A8?style=flat-square&logo=rancher&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![HAProxy](https://img.shields.io/badge/-HAProxy-106DA9?style=flat-square)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![Gitea](https://img.shields.io/badge/-Gitea-609926?style=flat-square&logo=gitea&logoColor=white)
 ![Forgejo](https://img.shields.io/badge/-Forgejo-FB923C?style=flat-square&logo=forgejo&logoColor=white)
