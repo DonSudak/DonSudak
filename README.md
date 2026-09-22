@@ -65,35 +65,9 @@ DevOps engineer, working across 200+ microservices on production Kubernetes. Fiv
 
 ### Projects
 
-<div align="center">
-
-[![puregen](https://github-readme-stats.vercel.app/api/pin/?username=MushroomSquad&repo=puregen&theme=radical&hide_border=true)](https://github.com/MushroomSquad/puregen)
-[![pytsune](https://github-readme-stats.vercel.app/api/pin/?username=MushroomSquad&repo=pytsune&theme=radical&hide_border=true)](https://github.com/MushroomSquad/pytsune)
-[![Lollipop](https://github-readme-stats.vercel.app/api/pin/?username=MushroomSquad&repo=Lollipop&theme=radical&hide_border=true)](https://github.com/MushroomSquad/Lollipop)
-
-</div>
-
----
-
-### Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DonSudak&show_icons=true&theme=radical&hide_border=true&count_private=true&include_orgs=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DonSudak&layout=compact&theme=radical&hide_border=true&include_orgs=true)
-
-</div>
-
----
-
-### Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DonSudak&theme=react-dark&hide_border=true)
-
-</div>
+- [puregen](https://github.com/MushroomSquad/puregen)
+- [pytsune](https://github.com/MushroomSquad/pytsune)
+- [Lollipop](https://github.com/MushroomSquad/Lollipop)
 
 ---
 
