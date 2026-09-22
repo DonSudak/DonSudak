@@ -8,7 +8,7 @@
 
 ### About
 
-DevOps engineer working across 200+ microservices on production Kubernetes. 5+ years building and running the systems behind backend services I also write in Python — migrations off bare metal, GitOps rollouts, and the less glamorous parts: secrets management, monitoring, backups. Also comfortable moving around Go, PHP, C#, and Java codebases when the infra work calls for it.
+DevOps engineer, working across 200+ microservices on production Kubernetes. Five years in, most of it spent on the parts nobody notices until they break: bare-metal-to-Kubernetes migrations, GitOps rollouts, secrets management, backups. I also write the Python behind a lot of the services this infra runs. Go, PHP, C#, Java — I end up in those codebases often enough to not be scared of them.
 
 ---
 
